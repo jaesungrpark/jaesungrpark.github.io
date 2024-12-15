@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Jaesung R. Park
-======
 ryanpark7@snu.ac.kr
 <br />
 1, Gwanak-ro, Gwanak-gu, Seoul
