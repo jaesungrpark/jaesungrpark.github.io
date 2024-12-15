@@ -9,13 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+Jaesung R. Park
+======
+ryanpark7@snu.ac.kr
+<br />
+1, Gwanak-ro, Gwanak-gu, Seoul
+<br />
+27-431, Department of Mathematical Sciences
+<br />
+Seoul National University
+
+Research Interests
+======
+* Emergent Properties of Foundation Models
+  * Diffusion Models, State Space Models
+* Deep Learning Theory
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.S. in Mathematics, Seoul National University, 2024-
+  * Advisor: <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
+* B.S. in Physics, Seoul National University, 2017-2023
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -30,35 +47,27 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Supervisor: Professor Git -->
 
-Publications
+Teaching Experience
+======
+* Teaching Assistant
+  * Generative AI and Foundation Models, <i>SNU</i>
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Service and leadership
+Work & Extracurricular Experience
 ======
-* Currently signed in to 43 different slack teams
+* ROK Airforce
+* LG Global Challengers 2018
