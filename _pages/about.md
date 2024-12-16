@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Jaesung Park. I am a master's student in the Department of Mathematical Sciences at Seoul National University, under the supervision of [Prof. Ernest K. Ryu](https://ernestryu.com). My research interest lies in developing mathematical frameworks that could deepen our understanding of foundation models. 
+Hello! My name is Jaesung Ryan Park. I am a master's student in the Department of Mathematical Sciences at Seoul National University, under the supervision of [Prof. Ernest K. Ryu](https://ernestryu.com). My research interest lies in developing mathematical frameworks that could deepen our understanding of foundation models. 
 
 If you'd like to connect or discuss, feel free to reach out at ryanpark7(at)snu(dot)ac(dot)kr!
 

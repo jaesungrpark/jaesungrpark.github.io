@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jaesung Park"
+title                    : "Jaesung's website"
 title_separator          : "-"
-name                     : &name "Jaesung R. Park"
+name                     : &name "Jaesung Ryan Park"
 description              : &description "Master's student at SNU MATH"
 url                      : https://jaesungrpark.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "jaesungrpark/jaesungrpark.github.io"
 author:
   # Biographic information
   avatar           : "profile_.png"
-  name             : "Jaesung R. Park"
+  name             : "Jaesung Ryan Park"
   pronouns         : # example: "she/her"  
   bio              : "Master's student at SNU MATH"
   location         : "Seoul, Korea"
