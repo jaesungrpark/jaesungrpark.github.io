@@ -8,6 +8,6 @@ permalink: /publication/2024-simple-dropin-lora
 date: 2024-01-01
 venue: 'Transcations on Machine Learning Research'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://arxiv.org/pdf/2405.03958'
+paperurl: 'https://openreview.net/forum?id=38P40gJPrI'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
