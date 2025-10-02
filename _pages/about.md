@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Jaesung Ryan Park. I am a master's student in the Department of Mathematical Sciences at Seoul National University, under the supervision of [Prof. Ernest K. Ryu](https://ernestryu.com). My research interest lies in developing mathematical frameworks that could deepen our understanding of foundation models. 
+Hello! My name is Jaesung Ryan Park. I am a Ph.D. student majoring in Applied Mathemathcs at UCLA, under the supervision of [Prof. Ernest K. Ryu](https://ernestryu.com). I previously earned a bachelor's degree in physics from Seoul National University, South Korea. My research interest lies in developing mathematical frameworks to deepen our understanding of foundation models. 
 
-If you'd like to connect or discuss, feel free to reach out at ryanpark7(at)snu(dot)ac(dot)kr!
+Outside of research, I enjoy playing tennis. So if you'd like to connect or discuss, feel free to reach out at ryanpark7(at)math(dot)ucla(dot)edu.
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! -->

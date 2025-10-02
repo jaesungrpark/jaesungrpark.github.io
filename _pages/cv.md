@@ -9,25 +9,25 @@ redirect_from:
 
 {% include base_path %}
 
-ryanpark7@snu.ac.kr
+ryanpark7@math.ucla.edu
 <br />
-1, Gwanak-ro, Gwanak-gu, Seoul
+Los Angeles, CA 90095
 <br />
-27-431, Department of Mathematical Sciences
+MS2350, Department of Mathematics
 <br />
-Seoul National University
+University of California, Los Angeles
 
 Research Interests
 ======
 * Emergent Properties of Foundation Models
-  * Diffusion Models, State Space Models
 * Deep Learning Theory
 
 
 Education
 ======
-* M.S. in Mathematics, Seoul National University, 2024-
+* Ph.D. in Applied Mathematics, UCLA, 2025-
   * Advisor: <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
+* M.S. in Mathematics, Seoul National University, 2024-2025
 * B.S. in Physics, Seoul National University, 2017-2023
 
 <!-- Work experience
@@ -50,6 +50,7 @@ Education
 Teaching Experience
 ======
 * Teaching Assistant
+  * Math31B, <i>UCLA</i>
   * Generative AI and Foundation Models, <i>SNU</i>
 
 <!-- Publications
