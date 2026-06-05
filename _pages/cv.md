@@ -26,39 +26,44 @@ Research Interests
 Education
 ======
 * Ph.D. in Applied Mathematics, UCLA, 2025-
-  * Advisor: <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
+  * Advisors: <a href="https://yifanc96.github.io/" target="_blank">Yifan Chen</a> and <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
 * M.S. in Mathematics, Seoul National University, 2024-2025
+  * Advisor: <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
 * B.S. in Physics, Seoul National University, 2017-2023
 
-<!-- Work experience
+Publications & Preprints
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+<ul>
+{% for post in site.publications reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Research Experience
+======
+* Ryu Optimization Group, Ph.D. Student, Sep 2023 - Present
+  * Deep Learning Theory
+  * Empirical Deep Learning
+* Nonequilibrium Statistical Mechanics Lab, Undergraduate Research Intern, Sep 2022 - Feb 2023
+  * Advisor: Yongjoo Baek
+* Electronic Structures Group, Undergraduate Research Intern, Jul 2021 - Feb 2022
+  * Advisor: Changyoung Kim
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git -->
+Honors and Awards
+======
+* Horn-Moez Award for Excellence in First-Year Ph.D. Studies, UCLA, 2026
+* Scholarship for Academic Excellence, Seoul National University, 2018, 2021, 2022
 
 Teaching Experience
 ======
+* Support Instructor
+  * Samsung AI Expert, Aug 2024
+  * LG Electronics AI Employee Training, Aug 2024, Aug 2025
 * Teaching Assistant
   * Math31B, <i>UCLA</i>
+  * Reinforcement Learning of Large Language Models, <i>SNU</i>
   * Generative AI and Foundation Models, <i>SNU</i>
 
-<!-- Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
-  
 <!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -68,5 +73,9 @@ Teaching Experience
   
 Work & Extracurricular Experience
 ======
-* ROK Airforce
-* LG Global Challengers 2018
+* Republic of Korea Air Force, Air Intelligence Wing, Air Force Operations Command, Oct 2019 - May 2021
+* LG Global Challengers, selected participant in LG's global undergraduate research and exploration program, Mar 2018 - Oct 2018
+
+Skills
+======
+* Programming Languages: Python, MATLAB
