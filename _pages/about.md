@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Jaesung Ryan Park. I am a Ph.D. student majoring in Applied Mathematics at UCLA, under the supervision of [Prof. Yifan Chen](https://yifanc96.github.io/) and [Prof. Ernest K. Ryu](https://ernestryu.com). I previously earned a bachelor's degree in physics from Seoul National University, South Korea. My research interest lies in developing mathematical frameworks to deepen our understanding of foundation models. 
+Hello! My name is Jaesung Ryan Park. I am a Ph.D. student majoring in Applied Mathematics at UCLA, under the supervision of [Prof. Ernest K. Ryu](https://ernestryu.com) and [Prof. Yifan Chen](https://yifanc96.github.io/). I previously earned a bachelor's degree in physics from Seoul National University, South Korea. My research interest lies in developing mathematical frameworks to deepen our understanding of foundation models. 
 
 Outside of research, I enjoy playing tennis. If you'd like to connect or discuss, feel free to reach out at ryanpark7(at)math(dot)ucla(dot)edu.
 

@@ -26,7 +26,7 @@ Research Interests
 Education
 ======
 * Ph.D. in Applied Mathematics, UCLA, 2025-
-  * Advisors: <a href="https://yifanc96.github.io/" target="_blank">Yifan Chen</a> and <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
+  * Advisors: <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a> and <a href="https://yifanc96.github.io/" target="_blank">Yifan Chen</a>.
 * M.S. in Mathematics, Seoul National University, 2024-2025
   * Advisor: <a href="https://ernestryu.com/" target="_blank">Ernest K. Ryu</a>
 * B.S. in Physics, Seoul National University, 2017-2023
